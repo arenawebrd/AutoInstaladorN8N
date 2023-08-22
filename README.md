@@ -1,0 +1,1 @@
+# AutoInstaladorN8N
