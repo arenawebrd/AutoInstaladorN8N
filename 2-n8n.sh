@@ -169,7 +169,7 @@ sudo apt update
 
 apt upgrade -y
 
-sudo timedatectl set-timezone America/Sao_Paulo
+sudo timedatectl set-timezone America/Santo_Domingo
 
 sudo apt install curl -y
 
