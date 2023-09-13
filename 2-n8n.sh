@@ -203,7 +203,7 @@ sudo apt install ./google-chrome-stable_current_amd64.deb -y
 
 cd
 
-sudo npm install -g n8n@0.230.3
+sudo npm install -g n8n@1.6.1
 
 npm install pm2 -g
 
